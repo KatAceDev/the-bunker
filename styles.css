@@ -159,3 +159,32 @@ footer p{
     font-size: 0.9rem;
     font-style: italic;
 }
+
+/* ============== Media Queries ===================== */
+
+@media screen and (max-width:48em) {
+    .hide-sm{ display: none;}
+
+    .flex-flip-sm{flex-direction: column-reverse;}
+
+    h1{
+        font-size: 4rem;
+    }
+
+    footer h2{
+        font-size: 3rem;
+    }
+
+    .social-banner{
+        background-image: none;
+        background-color: #1C2A2C;
+        min-height: 30vh;
+        text-align: center;
+        font-size: 2rem;
+    }
+
+    footer{
+        text-align: center;
+    }
+
+}
