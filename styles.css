@@ -109,31 +109,31 @@ a:hover{
 }
 
 .bg-roof{
-    background-image: url('/Images/rooftop.jpg');
+    background-image: url('Images/rooftop.jpg');
 }
 
 .bg-bed{
-    background-image: url('/Images/night-stand.jpg');
+    background-image: url('Images/night-stand.jpg');
 }
 
 .bg-hallway{
-    background-image: url('/Images/hallway.jpg');
+    background-image: url('Images/hallway.jpg');
 }
 
 .bg-lounge{
-    background-image: url('/Images/lounge.jpg');
+    background-image: url('Images/lounge.jpg');
 }
 
 .bg-lounge-2{
-    background-image: url('/Images/chairs-corner.jpg');
+    background-image: url('Images/chairs-corner.jpg');
 }
 
 .bg-sheets{
-    background-image: url('/Images/bed-sheets.jpg');
+    background-image: url('Images/bed-sheets.jpg');
 }
 
 .bg-map{
-    background-image: url('/Images/map-sydney.png');
+    background-image: url('Images/map-sydney.png');
 }
 
 .bg-padded{
